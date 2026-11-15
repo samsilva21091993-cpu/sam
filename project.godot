@@ -1,0 +1,11 @@
+; Godot 3.5 project configuration
+config_version=4
+
+[application]
+config/name="Evolution AI Prototype"
+run/main_scene="res://godot_prototype/Scenes/Main.tscn"
+
+[rendering]
+quality/driver/driver_name="GLES3"
+quality/2d/use_pixel_snap=false
+environment/default_environment="res://default_env.tres"
